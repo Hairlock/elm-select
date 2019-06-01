@@ -46,7 +46,6 @@ inputStyles =
     , ( "border", "none" )
     , ( "outline", "none" )
     , ( "min-height", "1.3rem" )
-    , ( "font-size", ".75rem" )
     ]
 
 
@@ -86,7 +85,6 @@ multiInputItemStyles =
     , ( "border-radius", "0.2em" )
     , ( "border-color", "#E3E5E8" )
     , ( "background-color", "#E3E5E8" )
-    , ( "font-size", ".75rem" )
     , ( "margin-right", ".2rem" )
     ]
 
